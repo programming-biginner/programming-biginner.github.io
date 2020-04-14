@@ -33,6 +33,10 @@ main {
   font-size:30px;
 }
 
+.index:hover {
+  opacity:0.5;
+}
+
 .intro-tt {
   padding-top:80px;
   color:black;
