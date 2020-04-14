@@ -21,14 +21,20 @@ header {
 }
 
 main {
-  height:800px;
+  height:1500px;
   width:100%;
   background-color:white;
   text-align:center;
 }
 
+.index{
+  display:inline-block;
+  padding:80px 30px 0 0;
+  font-size:30px;
+}
+
 .intro-tt {
-  padding-top:120px;
+  padding-top:80px;
   color:black;
 }
 
@@ -36,11 +42,12 @@ main {
   padding-top:20px;
   padding-bottom:20px;
   font-size:30px;
-  color:#BBFFFF;
+  color:gray;
 }
 
 .content {
   color:black;
+  font-size: 18px;
 }
 
 span {
@@ -61,6 +68,26 @@ span {
 }
 
 .my-twitter:hover {
+  opacity:1;
+}
+
+.presen-corner {
+  padding-left:110px;
+  opacity:0.5;
+}
+
+.corner-link {
+  position:relative;
+  right:160px;
+  bottom:150px;
+  background-color:white;
+  font-size:50px;
+  font-weight:bold;
+  border-radius:4px;
+  opacity:0.5;
+}
+
+.corner-link:hover {
   opacity:1;
 }
 
