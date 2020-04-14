@@ -13,23 +13,23 @@ a{
 header {
   height:50px;
   width:100%;
-  background-color:white;
+  background-color:black;
   text-align:center;
   font-size: 30px;
   font-weight:bold;
-  color:black;
+  color:white;
 }
 
 main {
   height:800px;
   width:100%;
-  background-color:black;
+  background-color:white;
   text-align:center;
 }
 
 .intro-tt {
   padding-top:120px;
-  color:white;
+  color:black;
 }
 
 .subject{
@@ -40,7 +40,7 @@ main {
 }
 
 .content {
-  color:white;
+  color:black;
 }
 
 span {
@@ -68,7 +68,7 @@ footer {
   height:50px;
   width:100%;
   line-height:50px;
-  background-color:white;
-  color:black;
+  background-color:black;
+  color:white;
   font-size:20px;
 }
