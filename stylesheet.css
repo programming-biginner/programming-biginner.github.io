@@ -11,17 +11,17 @@ a{
 }
 
 header {
-  height:50px;
+  height:100px;
   width:100%;
   background-color:black;
   text-align:center;
-  font-size: 30px;
+  font-size:50px;
   font-weight:bold;
   color:white;
 }
 
 main {
-  height:2100px;
+  height:3600px;
   width:100%;
   background-color:white;
   text-align:center;
@@ -51,7 +51,7 @@ main {
 
 .content {
   color:black;
-  font-size: 18px;
+  font-size:25px;
 }
 
 span {
@@ -79,15 +79,21 @@ span {
   border-bottom:none;
 }
 
+.presen-tt {
+  padding-top:200px;
+  font-size:80px;
+}
+
 .presen-corner {
   display:block;
+  padding:200px;
   margin: 0 auto;
   opacity:0.3;
 }
 
 .corner-link {
   position:relative;
-  bottom:200px;
+  bottom:400px;
   background-color:blue;
   color:white;
   font-size:50px;
@@ -101,9 +107,9 @@ span {
 }
 
 footer {
-  height:50px;
+  height:100px;
   width:100%;
-  line-height:50px;
+  line-height:100px;
   background-color:black;
   color:white;
   font-size:20px;
