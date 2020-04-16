@@ -22,7 +22,7 @@ header {
 }
 
 main {
-  height:3600px;
+  height:5000px;
   width:100%;
   background-color:white;
   text-align:center;
@@ -40,19 +40,20 @@ main {
 
 .intro-tt {
   padding-top:80px;
+  font-size: 80px;
   color:black;
 }
 
 .subject{
-  padding-top:20px;
-  padding-bottom:20px;
-  font-size:30px;
+  padding-top:30px;
+  padding-bottom:30px;
+  font-size:50px;
   color:gray;
 }
 
 .content {
   color:black;
-  font-size:25px;
+  font-size:30px;
 }
 
 span {
@@ -60,7 +61,7 @@ span {
 }
 
 .please {
-  padding-top:20px;
+  padding-top:80px;
 }
 
 .my-twitter{
@@ -69,7 +70,7 @@ span {
   background-color:#13EEFF;
   opacity:1;
   font-size:50px;
-  border-radius:4px;
+  border-radius:8px;
   border-bottom: solid 4px #627295;
 }
 
@@ -94,10 +95,10 @@ span {
 
 .corner-link {
   position:relative;
-  bottom:400px;
+  bottom:420px;
   background-color:blue;
   color:white;
-  font-size:50px;
+  font-size:80px;
   font-weight:bold;
   border-radius:4px;
   opacity:0.6;
